@@ -2,4 +2,4 @@ File 2 git
 
 I have succesfully upload my changes to gitHub using git. This is also a change to check if this is working fine.
 
-This is a premium feature I have added
+I do not want premium feature.
